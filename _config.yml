@@ -1,0 +1,28 @@
+name: Austin Daylily Society
+favicon: null
+layout_spectrum: 0.3199376412667334
+typography_spectrum: 0.31820925255306065
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6818317002616823
+  lightness: 0.05374616268090904
+  saturation: 0.20773126929998398
+  rhythmicContrast: 0.6440918401349336
+purpose: []
